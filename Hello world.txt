@@ -2,3 +2,4 @@ print ("Hello world")
 print ("Hello everybody")
 опять просто Хелоу
 Привет, мой друг
+Давно не видились!!!!
